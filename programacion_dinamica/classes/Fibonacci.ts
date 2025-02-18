@@ -23,7 +23,7 @@ export class Fibonacci {
       this.setResult(this.first + this.second);
     }
 
-    return this.result;
+    return this.getResult();
   };
 
   public getResult = () => this.result;
