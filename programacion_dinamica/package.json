@@ -1,0 +1,23 @@
+{
+  "name": "clase-programacion-dinamica",
+  "version": "1.0.0",
+  "description": "Clase de programación dínamica",
+  "main": "index.js",
+  "author": "Mad Mofin <arthurjaziel1@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eslint": "^9.20.1",
+    "express": "^4.21.2",
+    "node": "^23.8.0",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
